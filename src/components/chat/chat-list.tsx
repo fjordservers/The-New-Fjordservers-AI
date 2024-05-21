@@ -92,7 +92,7 @@ export default function ChatList({
               alt="AI"
               width={60}
               height={60}
-              className="h-20 w-14 object-contain dark:invert"
+              className="h-20 w-14"
             />
             <p className="text-center text-lg text-muted-foreground">
               How can I help you today?
@@ -189,7 +189,6 @@ export default function ChatList({
                       alt="AI"
                       width={6}
                       height={6}
-                      className="object-contain dark:invert"
                     />
                   </Avatar>
                   <span className="bg-accent p-3 rounded-md max-w-xs sm:max-w-2xl overflow-x-auto">
@@ -229,7 +228,7 @@ export default function ChatList({
                 alt="AI"
                 width={6}
                 height={6}
-                className="object-contain dark:invert"
+
               />
             </Avatar>
             <div className="bg-accent p-3 rounded-md max-w-xs sm:max-w-2xl overflow-x-auto">
