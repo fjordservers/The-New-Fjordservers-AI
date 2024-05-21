@@ -3,6 +3,7 @@
   The New Fjord Servers AI
 </h1>
 
+[Access Beta](https://tnf.ai.fjordservers.com)
 
 # Upcoming features
 
