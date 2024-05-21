@@ -3,7 +3,6 @@
   The New Fjord Servers AI
 </h1>
 
-<div align="center">
 
 # Upcoming features
 
